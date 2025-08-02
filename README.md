@@ -2,7 +2,7 @@
 
 A modern, responsive starter template built with React + Vite, featuring Authentication, Protected Routes, and Tailwind CSS styling.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+\
 [![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-7.0-646CFF?logo=vite)](https://vitejs.dev/)
@@ -114,9 +114,7 @@ Create a `.env` file in the root directory:
 VITE_API_URL=your_api_url
 ```
 
-## 🛡️ License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
